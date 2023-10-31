@@ -1,0 +1,39 @@
+ .container {
+     border: 2px solid black;
+ }
+
+ img {
+     width: 100px;
+     height: 150px;
+     margin-left: 10px;
+ }
+
+ .col-md-4 {
+     display: flex;
+     align-items: center;
+ }
+
+ .col-md-8 {
+     display: flex;
+     justify-content: center;
+ }
+
+ h2 {
+     text-align: center;
+     border: 2px solid black;
+     /* margin-top: 100px;
+    margin-bottom: 20px; */
+ }
+
+ .row {
+     display: flex;
+     justify-content: space-around;
+ }
+
+ /*
+
+ /* .col-sm-12 {
+    border: 2px solid red;
+    display: flex; */
+
+ /* } 
